@@ -62,7 +62,7 @@ Network Layer (3): IP Addresses, Routers, any device with IP address.
 Transport Layer (4): Distinguish data streams, Data has Layer 4 header. 
 Layer 5,6,7: Session, Presentation, Application
 
-<img width="468" height="541" alt="image" src="https://github.com/user-attachments/assets/1f4e450e-72d9-406a-86ee-3493a0b7eadf" />
+
 
 
 
