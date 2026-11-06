@@ -67,7 +67,18 @@ I'd like to connect sensors like moisture sensors with a Dashboard.
 I expect to get the hands-on experience I need for my own home automation projects.
 
 ## Study log
+Task 1:
 <a href="https://github.com/Rein2Max/iot-test/blob/main/Module01/README.md"></a>
+Task 2:
+Based on our discussions, the TCP/IP model simplifies the OSI Model by aggregating Session, Presentation and Application Layers into ONE common Application Layer, while Data Link and Physical Layers belong to Network Access Layer.
+
+Task 3: Screenshot is in: ./pictures/
+
+Task 4: the button and LED are on the same board, but the signal took a round trip through the network because the firmware publishes the button press to the broker and subscribes to a separate topic for the LED, so the board talks to the broker, not directly to itself.
+
+Task 5: it allows for asynchronous communication and decouples message producers from consumers, enhancing scalability and flexibility in distributed systems. Its single point of failure typically lies in the message broker, which can disrupt message delivery if it fails; to mitigate this, implementing redundancy or failover mechanisms for the broker would be beneficial.
+
+Task 6: the cable is needless because the data was transfered to the stick, allowing the stick to work with the data afterwards
 
 ## Task Inspirations
 
