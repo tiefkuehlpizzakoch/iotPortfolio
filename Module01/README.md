@@ -80,6 +80,8 @@ Task 5: it allows for asynchronous communication and decouples message producers
 
 Task 6: the cable is needless because the data was transfered to the stick, allowing the stick to work with the data afterwards
 
+Task7: If each pod had invented its own topic names, the wildcard subscription (`+/temp`) would break, making it impossible to aggregate all sensor data from the room into a single, unified chart or heatmap.
+
 ## Task Inspirations
 
 **Proves:** [LG1](#lg1)
