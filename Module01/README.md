@@ -66,6 +66,9 @@ I have used MQTT, the command line and Git / GitHub before.
 I'd like to connect sensors like moisture sensors with a Dashboard.
 I expect to get the hands-on experience I need for my own home automation projects.
 
+## Study log
+<a href="https://github.com/Rein2Max/iot-test/blob/main/Module01/README.md"></a>
+
 ## Task Inspirations
 
 **Proves:** [LG1](#lg1)
