@@ -49,7 +49,7 @@ Critically analyze the ISO/OSI 7-layer model against real TCP/IP in IoT systems 
 **Evidence:** [Task Personal Profile](#task-personal-profile)
 
 <a id="lg6"></a>
-### LG5 — `<keyword>`
+### LG6 — `<keyword>`
 
 Craft a system story that is concrete enough to pitch, spanning the computing continuum with named stakeholders, devices, and interfaces — and name the weakest link in it.
 
