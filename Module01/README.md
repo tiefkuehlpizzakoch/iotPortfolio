@@ -28,25 +28,47 @@ Module description
 <a id="lg1"></a>
 ### LG1 — `<keyword>`
 
-<copy the goal here>
+Explain how this class works — learning goals as the contract, negotiable tasks, evidence in a portfolio — and start your own portfolio with a note on what you already know, what you expect, and who your pod is.
 
 **Evidence:** [Task Inspirations](#task-inspirations)
 
 <a id="lg2"></a>
 ### LG2 — `<keyword>`
 
-<copy the goal here>
+Explain publish/subscribe with an MQTT broker: the star topology, hierarchical topics, wildcards, and why decoupling producers from consumers is what makes an IoT system maintainable.
 
 **Evidence:** [Task Personal Profile](#task-personal-profile)
 
 <a id="lg3"></a>
 ### LG3 — `<keyword>`
 
-<copy the goal here>
+Build Node-RED flows that subscribe and publish, turn a physical button into a remote actuator action, and render live telemetry as a gauge, a chart, and a wildcard aggregation.
 
 **Evidence:** [Task What is IoT](#task-what-is-iot)
 
+<a id="lg4"></a>
+### LG4 — `<keyword>`
+
+Wire a digital 1-wire sensor, read its value over MQTT, and explain the declarative OTA loop (one line in setup.cpp → a fleet-wide deployment) and what it changes for a real fleet.
+
+**Evidence:** [Task Personal Profile](#task-personal-profile)
+
+<a id="lg5"></a>
+### LG5 — `<keyword>`
+
+Critically analyze the ISO/OSI 7-layer model against real TCP/IP in IoT systems (referencing RFC 3439 and RFC 1958), and quantify header overhead from a capture taken at the edge — the router, an ESP32 tap, or a provided dump — stating every assumption.
+
+**Evidence:** [Task Personal Profile](#task-personal-profile)
+
+<a id="lg6"></a>
+### LG5 — `<keyword>`
+
+Craft a system story that is concrete enough to pitch, spanning the computing continuum with named stakeholders, devices, and interfaces — and name the weakest link in it.
+
+**Evidence:** [Task Personal Profile](#task-personal-profile)
+
 <a id="task-inspirations"></a>
+
 ## Task Inspirations
 
 **Proves:** [LG1](#lg1)
