@@ -1,16 +1,4 @@
 # Module 1
-
-Who am I?
-Programming experience: Python, Java, C(++)
-Never used a microcontroller.
-Never configured a router.
-Never used Wireshark.
-I have used MQTT, the command line and Git / GitHub before.
-I'd like to connect sensors like moisture sensors with a Dashboard.
-I expect to get the hands-on experience I need for my own home automation projects.
-
-
-
 > **Example module** from the IoT introduction class. Adjust the headings and tasks to match your actual course content.
 
 > When you start editing this file, remove this description.
@@ -68,6 +56,15 @@ Craft a system story that is concrete enough to pitch, spanning the computing co
 **Evidence:** [Task Personal Profile](#task-personal-profile)
 
 <a id="task-inspirations"></a>
+
+## Who am I?
+Programming experience: Python, Java, C(++)
+Never used a microcontroller.
+Never configured a router.
+Never used Wireshark.
+I have used MQTT, the command line and Git / GitHub before.
+I'd like to connect sensors like moisture sensors with a Dashboard.
+I expect to get the hands-on experience I need for my own home automation projects.
 
 ## Task Inspirations
 
